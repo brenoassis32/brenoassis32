@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brenoassis32&show_icons=true&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brenoassis32&show_icons=true&include_all_commits=true&theme=dark"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoassis32&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
