@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brenoassis32&show_icons=true&include_all_commits=false&theme=dark&locale=pt-br"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoassis32&layout=compact&include_all_commits=false&langs_count=10&theme=dark&custom_title=Linguagens"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brenoassis32&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoassis32&layout=compact&include_all_commits=true&langs_count=10&theme=dark&custom_title=Linguagens"/>
 </div>
 
   <!--
